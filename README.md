@@ -18,7 +18,5 @@ Repositório que tem como objetivo armazenar os trabalhos feitos na matéria de 
 
 * ## Photobook
 
-![layout-photo](https://user-images.githubusercontent.com/95611970/187519313-0c33c207-d7b7-43fc-b289-076c47164621.png)
+![photobook-layout](https://user-images.githubusercontent.com/95611970/187523023-0a8438e1-870f-4956-b4b9-8fde216c8641.jpg)
 
-
-* ## Samsungshop
