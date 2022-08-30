@@ -1,7 +1,7 @@
-#Web_design  <br />
+### Web_design  <br />
 Repositório que tem como objetivo armazenar os trabalhos feitos na matéria de web design acontecida no ano de 2018. Foi utilizado HTML e CSS para a construção dos sites.
 
-- Layout de cada website deste repositório:
+### Layout de cada website deste repositório:
 
 * Dreams
 
